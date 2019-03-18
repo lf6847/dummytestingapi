@@ -2,7 +2,7 @@
 "accessTokenAithorizedUser": 
 	[{"RT1": "userID"}, 
 	{"RT2": "userID"}], 
-“atsTokenAuthorizedUser”: 
+"atsTokenAuthorizedUser": 
 	[{"ATS1": "userID"}, 
-	{"ATS2": "userID"}], 
+	{"ATS2": "userID"}] 
 } 
